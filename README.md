@@ -1,22 +1,31 @@
 <!--
-  Professional Cybersecurity Portfolio
-  Clean and modern profile section.
+  ⚡️ CYBERSECURITY OPERATIVE // DIGITAL DEFENSE & OFFENSE
+  Sleek, tech-forward portfolio section.
 -->
 
-<h1 align="center">Cybersecurity Specialist</h1>
-<h3 align="center">Ethical Hacker | Network Security Analyst</h3>
+<h1 align="center">
+  <img src="https://img.icons8.com/fluency/48/000000/hacker.png" width="40" style="vertical-align:middle; margin-right:10px;">
+  <span style="font-family: 'Fira Mono', monospace;">Cybersecurity Engineer</span>
+</h1>
+<h3 align="center" style="font-family: 'Fira Mono', monospace;">
+  Offensive Security | Threat Hunter | Reverse Engineer
+</h3>
 
-<p align="center">
-  Experienced cybersecurity professional with a focus on offensive and defensive security, risk assessment, and knowledge sharing.
+<p align="center" style="font-size:1.1em; color:#b0b0b0;">
+  <code>
+    // Digital Fortress Architect<br>
+    // Red & Blue Team Operator<br>
+    // Automation, Adversary Simulation, and Exploit Development
+  </code>
 </p>
 
-<hr>
+<hr style="border-top: 1px dashed #444;">
 
-<h2 align="center">Skills & Tools</h2>
+<h2 align="center"><img src="https://img.icons8.com/ios-filled/24/00e676/console.png" style="vertical-align:middle;"> Tech Arsenal</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
-  <img src="https://img.shields.io/badge/Burpsuite-FF9900?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF9900?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite">
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
   <img src="https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logoColor=white" alt="SQLmap">
   <img src="https://img.shields.io/badge/Hashcat-800080?style=for-the-badge&logoColor=white" alt="Hashcat">
@@ -34,9 +43,9 @@
   <img src="https://img.shields.io/badge/CTF-FFD700?style=for-the-badge&logoColor=black" alt="CTF">
 </p>
 
-<hr>
+<hr style="border-top: 1px dashed #444;">
 
-<h2 align="center">Platforms</h2>
+<h2 align="center"><img src="https://img.icons8.com/ios-filled/24/00e676/server.png" style="vertical-align:middle;"> Environments</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
   <img src="https://img.shields.io/badge/Parrot_OS-00CED1?style=for-the-badge&logo=parrot-security&logoColor=black" alt="Parrot OS">
@@ -47,23 +56,28 @@
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS">
 </p>
 
-<hr>
+<hr style="border-top: 1px dashed #444;">
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center"><img src="https://img.icons8.com/ios-filled/24/00e676/github.png" style="vertical-align:middle;"> GitHub Intel</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="600"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default&hide_border=true" alt="GitHub Streak Stats" width="600"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="600"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact" alt="GitHub Contribution Graph" width="800"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark" alt="GitHub Contribution Graph" width="800"/>
 </p>
 <p align="center">
-  <sub><i>Replace <b>yourusername</b> with your actual GitHub username.</i></sub>
+  <sub>
+    <i>
+      <kbd>Tip:</kbd> Replace <b>yourusername</b> with your actual GitHub username.<br>
+      <kbd>Pro:</kbd> Tweak the <code>theme</code> parameter for your preferred cyber look.
+    </i>
+  </sub>
 </p>
 
 <!--
   Update badge links and username as needed.
-  Designed for clarity and professionalism.
+  Designed for a modern, techy, and high-impact impression.
 -->
