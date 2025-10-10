@@ -71,8 +71,6 @@
 <p align="center">
   <sub>
     <i>
-      <kbd>Tip:</kbd> All GitHub stats reference <b>darkwall</b> for accuracy.<br/>
-      <kbd>Pro:</kbd> Try themes like <code>tokyonight</code> or <code>rogue</code> for a sharp look.<br/>
       <!-- Customize streak SVG daily for personal motivation. -->
     </i>
   </sub>
