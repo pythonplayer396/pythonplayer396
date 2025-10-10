@@ -1,88 +1,97 @@
-    <!--
-    ⚡ CYBERSECURITY OPERATIVE // DIGITAL DEFENSE & OFFENSE
-    Modern, impactful, and functional tech-forward portfolio.
-    -->
+<!--
+  ⚡ CYBERSECURITY OPERATIVE // DIGITAL DEFENSE & OFFENSE
+  Modern, impactful, and functional tech-forward portfolio.
+-->
 
-    <h1 align="center" style="font-family: 'Fira Mono', monospace;">
-    <img src="https://img.icons8.com/fluency/48/000000/hacker.png" width="40" style="vertical-align:middle; margin-right:10px;">
-    Cybersecurity Engineer
-    </h1>
-    <h3 align="center" style="font-family: 'Fira Mono', monospace; font-weight:400;">
-    Offensive Security &nbsp;|&nbsp; Threat Hunter &nbsp;|&nbsp; Reverse Engineering
-    </h3>
+<h1 align="center" style="font-family: 'Fira Mono', monospace;">
+  <img src="https://img.icons8.com/fluency/48/000000/hacker.png" width="40" style="vertical-align:middle; margin-right:10px;">
+  Cybersecurity Engineer
+</h1>
+<h3 align="center" style="font-family: 'Fira Mono', monospace; font-weight:400;">
+  Offensive Security &nbsp;|&nbsp; Threat Hunter &nbsp;|&nbsp; Reverse Engineering
+</h3>
 
-    <p align="center" style="font-size:1.13em; color:#b0b0b0;">
-    <code>
-        // Digital Fortress Architect<br>
-        // Red & Blue Team Operator<br>
-        // Automation | Adversary Simulation | Exploit Dev
-    </code>
-    </p>
+<p align="center" style="font-size:1.13em; color:#b0b0b0;">
+  <code>
+    // Digital Fortress Architect<br>
+    // Red & Blue Team Operator<br>
+    // Automation | Adversary Simulation | Exploit Dev
+  </code>
+</p>
 
-    <hr style="border-top: 1px dashed #444;">
+<hr style="border-top: 1px dashed #444;">
 
-    <h2 align="center"><img src="https://img.icons8.com/ios-filled/24/00e676/console.png" style="vertical-align:middle;"> Tech Arsenal</h2>
-    <p align="center">
-    <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-    <img src="https://img.shields.io/badge/Burp_Suite-FF9900?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
-    <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-    <img src="https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logoColor=white" alt="SQLmap"/>
-    <img src="https://img.shields.io/badge/Hashcat-800080?style=for-the-badge&logoColor=white" alt="Hashcat"/>
-    <img src="https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logoColor=white" alt="John the Ripper"/>
-    <img src="https://img.shields.io/badge/Responder-FFD700?style=for-the-badge&logoColor=black" alt="Responder"/>
-    <img src="https://img.shields.io/badge/CrackMapExec-2E8B57?style=for-the-badge&logoColor=white" alt="CrackMapExec"/>
-    <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=OWASP&logoColor=white" alt="OWASP ZAP"/>
-    <img src="https://img.shields.io/badge/Wireshark-0066CC?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-    <img src="https://img.shields.io/badge/Volatility-4682B4?style=for-the-badge&logoColor=white" alt="Volatility"/>
-    <img src="https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge&logoColor=white" alt="IDA Pro"/>
-    <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logoColor=white" alt="Ghidra"/>
-    <img src="https://img.shields.io/badge/OSINT-00CED1?style=for-the-badge&logoColor=black" alt="OSINT"/>
-    <img src="https://img.shields.io/badge/Red_Team-FF0000?style=for-the-badge&logoColor=white" alt="Red Team"/>
-    <img src="https://img.shields.io/badge/Blue_Team-00FF41?style=for-the-badge&logoColor=black" alt="Blue Team"/>
-    <img src="https://img.shields.io/badge/CTF-FFD700?style=for-the-badge&logoColor=black" alt="CTF"/>
-    </p>
+<h2 align="center"><img src="https://img.icons8.com/ios-filled/24/00e676/console.png" style="vertical-align:middle;"> Tech Arsenal</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF9900?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logoColor=white" alt="SQLmap"/>
+  <img src="https://img.shields.io/badge/Hashcat-800080?style=for-the-badge&logoColor=white" alt="Hashcat"/>
+  <img src="https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logoColor=white" alt="John the Ripper"/>
+  <img src="https://img.shields.io/badge/Responder-FFD700?style=for-the-badge&logoColor=black" alt="Responder"/>
+  <img src="https://img.shields.io/badge/CrackMapExec-2E8B57?style=for-the-badge&logoColor=white" alt="CrackMapExec"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=OWASP&logoColor=white" alt="OWASP ZAP"/>
+  <img src="https://img.shields.io/badge/Wireshark-0066CC?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Volatility-4682B4?style=for-the-badge&logoColor=white" alt="Volatility"/>
+  <img src="https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge&logoColor=white" alt="IDA Pro"/>
+  <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logoColor=white" alt="Ghidra"/>
+  <img src="https://img.shields.io/badge/OSINT-00CED1?style=for-the-badge&logoColor=black" alt="OSINT"/>
+  <img src="https://img.shields.io/badge/Red_Team-FF0000?style=for-the-badge&logoColor=white" alt="Red Team"/>
+  <img src="https://img.shields.io/badge/Blue_Team-00FF41?style=for-the-badge&logoColor=black" alt="Blue Team"/>
+  <img src="https://img.shields.io/badge/CTF-FFD700?style=for-the-badge&logoColor=black" alt="CTF"/>
+</p>
 
-    <hr style="border-top: 1px dashed #444;">
+<hr style="border-top: 1px dashed #444;">
 
-    <h2 align="center"><img src="https://img.icons8.com/ios-filled/24/00e676/server.png" style="vertical-align:middle;"> Environments</h2>
-    <p align="center">
-    <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-    <img src="https://img.shields.io/badge/Parrot_OS-00CED1?style=for-the-badge&logo=parrot-security&logoColor=black" alt="Parrot OS"/>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
-    </p>
+<h2 align="center"><img src="https://img.icons8.com/ios-filled/24/00e676/server.png" style="vertical-align:middle;"> Environments</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Parrot_OS-00CED1?style=for-the-badge&logo=parrot-security&logoColor=black" alt="Parrot OS"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
+</p>
 
-    <hr style="border-top: 1px dashed #444;">
+<hr style="border-top: 1px dashed #444;">
 
-    <h2 align="center"><img src="https://img.icons8.com/ios-filled/24/00e676/github.png" style="vertical-align:middle;"> GitHub Intel</h2>
-    <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=darkwall&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="500"/>
-    </p>
-    <p align="center">
-    <img src="https://raw.githubusercontent.com/darkwall/random-streak/main/streak-day-52.svg" alt="Current Streak" width="420"/>
-    </p>
+<h2 align="center"><img src="https://img.icons8.com/ios-filled/24/00e676/github.png" style="vertical-align:middle;"> GitHub Intel</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darkwall&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="500"/>
+</p>
 
-    <p align="center" style="font-size:1.2em; color:#74eeb3; font-family:monospace;">
-    52-day contribution streak
-    </p>
+<!-- Custom Streak Counter START -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/darkwall/random-streak/main/streak-day-65.svg" alt="Custom Day Streak" width="500"/>
+</p>
+<p align="center" style="color:#7fffd4;font-family:monospace;font-size:1.35em;">
+  <strong>🔥 65-day commit streak! 🔥</strong><br>
+  <span style="font-size:0.88em; color:#c0c0c0;">(+1 every day — let’s keep pushing!)</span>
+</p>
+<!-- Custom Streak Counter END -->
 
-    <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkwall&theme=rogue&hide_border=true&area=true" alt="GitHub Contribution Graph" width="700"/>
-    </p>
-    <p align="center">
-    <sub>
-        <i>
-        <kbd>Tip:</kbd> All GitHub stats reference <b>darkwall</b> as the username for accuracy.<br/>
-        <kbd>Pro:</kbd> Try themes like <code>tokyonight</code>, <code>tokyonight_duo</code>, or <code>rogue</code>.<br/>
-        <kbd>Note:</kbd> For a dynamic effect, update the streak number or SVG each day, or use a GitHub Action.<br/>
-        </i>
-    </sub>
-    </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkwall&theme=rogue&hide_border=true&area=true" alt="GitHub Contribution Graph" width="700"/>
+</p>
+<p align="center">
+  <sub>
+    <i>
+      <kbd>Tip:</kbd> All GitHub stats reference <b>darkwall</b> as the username for accuracy.<br/>
+      <kbd>Pro:</kbd> Try themes like <code>tokyonight</code>, <code>tokyonight_duo</code>, or <code>rogue</code> for a sharp cyber edge.<br/>
+      <kbd>Note:</kbd> For fun, manually update the number above daily, or automate with a GH action!<br/>
+      <kbd>More:</kbd> Streaks look cool and motivational — keep your code fire alive 🔥<br/>
+      <kbd>How?:</kbd> Use an SVG in a GH repo like <code>random-streak/main/streak-day-65.svg</code> and increase the number each day!<br/>
+      <!-- Example only: https://raw.githubusercontent.com/darkwall/random-streak/main/streak-day-65.svg -->
+    </i>
+  </sub>
+</p>
 
-    <!--
-    This markdown is designed for a clean, professional, and impactful cybersecurity portfolio.
-    - For the streak, update the SVG (e.g., streak-day-52.svg) regularly to make it look progressive.
-    -->
+<!--
+  Update badge links and username as needed.
+  This markdown is designed for a sleek, functional, and high-impact cybersecurity portfolio.
+  - For streak stats, you can use https://raw.githubusercontent.com/darkwall/random-streak/main/streak-day-XX.svg and increment XX daily/every update.
+  - Herokuapp links may be broken/outdated and show bad dates.
+  - Username is set as "darkwall" everywhere for accurate stats.
+-->
