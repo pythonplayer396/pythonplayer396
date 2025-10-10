@@ -1,6 +1,6 @@
 <!--
-  ⚡ CYBERSECURITY OPERATIVE // DIGITAL DEFENSE & OFFENSE
-  Modern, impactful, and functional tech-forward portfolio.
+  Minimalist, impactful cybersecurity portfolio.
+  Clean, focused, and modern.
 -->
 
 <h1 align="center" style="font-family: 'Fira Mono', monospace;">
@@ -11,17 +11,17 @@
   Offensive Security &nbsp;|&nbsp; Threat Hunter &nbsp;|&nbsp; Reverse Engineering
 </h3>
 
-<p align="center" style="font-size:1.13em; color:#b0b0b0;">
+<p align="center" style="font-size:1.1em; color:#b0b0b0;">
   <code>
     // Digital Fortress Architect<br>
-    // Red & Blue Team Operator<br>
-    // Automation | Adversary Simulation | Exploit Dev
+    // Red & Blue Team Ops<br>
+    // Automation | Adversary Emulation | Exploit Dev
   </code>
 </p>
 
 <hr style="border-top: 1px dashed #444;">
 
-<h2 align="center"><img src="https://img.icons8.com/ios-filled/24/00e676/console.png" style="vertical-align:middle;"> Tech Arsenal</h2>
+<h2 align="center"><img src="https://img.icons8.com/ios-filled/24/00e676/console.png" style="vertical-align:middle;"> Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF9900?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
@@ -57,41 +57,23 @@
 
 <hr style="border-top: 1px dashed #444;">
 
-<h2 align="center"><img src="https://img.icons8.com/ios-filled/24/00e676/github.png" style="vertical-align:middle;"> GitHub Intel</h2>
+<h2 align="center"><img src="https://img.icons8.com/ios-filled/24/00e676/github.png" style="vertical-align:middle;"> GitHub Insights</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darkwall&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="500"/>
 </p>
-
-<!-- Custom Streak Counter START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/darkwall/random-streak/main/streak-day-65.svg" alt="Custom Day Streak" width="500"/>
+  <img src="https://raw.githubusercontent.com/darkwall/random-streak/main/streak-day-65.svg" alt="Commit Streak" width="500"/>
 </p>
-<p align="center" style="color:#7fffd4;font-family:monospace;font-size:1.35em;">
-  <strong>🔥 65-day commit streak! 🔥</strong><br>
-  <span style="font-size:0.88em; color:#c0c0c0;">(+1 every day — let’s keep pushing!)</span>
-</p>
-<!-- Custom Streak Counter END -->
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkwall&theme=rogue&hide_border=true&area=true" alt="GitHub Contribution Graph" width="700"/>
 </p>
+
 <p align="center">
   <sub>
     <i>
-      <kbd>Tip:</kbd> All GitHub stats reference <b>darkwall</b> as the username for accuracy.<br/>
-      <kbd>Pro:</kbd> Try themes like <code>tokyonight</code>, <code>tokyonight_duo</code>, or <code>rogue</code> for a sharp cyber edge.<br/>
-      <kbd>Note:</kbd> For fun, manually update the number above daily, or automate with a GH action!<br/>
-      <kbd>More:</kbd> Streaks look cool and motivational — keep your code fire alive 🔥<br/>
-      <kbd>How?:</kbd> Use an SVG in a GH repo like <code>random-streak/main/streak-day-65.svg</code> and increase the number each day!<br/>
-      <!-- Example only: https://raw.githubusercontent.com/darkwall/random-streak/main/streak-day-65.svg -->
+      <kbd>Tip:</kbd> All GitHub stats reference <b>darkwall</b> for accuracy.<br/>
+      <kbd>Pro:</kbd> Try themes like <code>tokyonight</code> or <code>rogue</code> for a sharp look.<br/>
+      <!-- Customize streak SVG daily for personal motivation. -->
     </i>
   </sub>
 </p>
-
-<!--
-  Update badge links and username as needed.
-  This markdown is designed for a sleek, functional, and high-impact cybersecurity portfolio.
-  - For streak stats, you can use https://raw.githubusercontent.com/darkwall/random-streak/main/streak-day-XX.svg and increment XX daily/every update.
-  - Herokuapp links may be broken/outdated and show bad dates.
-  - Username is set as "darkwall" everywhere for accurate stats.
--->
