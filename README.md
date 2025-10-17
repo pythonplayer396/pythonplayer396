@@ -40,6 +40,23 @@
   <img src="https://img.shields.io/badge/Red_Team-FF0000?style=for-the-badge&logoColor=white" alt="Red Team"/>
   <img src="https://img.shields.io/badge/Blue_Team-00FF41?style=for-the-badge&logoColor=black" alt="Blue Team"/>
   <img src="https://img.shields.io/badge/CTF-FFD700?style=for-the-badge&logoColor=black" alt="CTF"/>
+  <img src="https://img.shields.io/badge/Malware_Analysis-FF0000?style=for-the-badge&logoColor=white" alt="Malware Analysis"/>
+  <img src="https://img.shields.io/badge/Malware_Simulation-FF0000?style=for-the-badge&logoColor=white" alt="Malware Simulation"/>
+  <img src="https://img.shields.io/badge/Penetration_Testing-FF0000?style=for-the-badge&logoColor=white" alt="Penetration Testing"/>
+  <img src="https://img.shields.io/badge/Security_Auditing-FF0000?style=for-the-badge&logoColor=white" alt="Security Auditing"/>
+  <img src="https://img.shields.io/badge/Vulnerability_Assessment-FF0000?style=for-the-badge&logoColor=white" alt="Vulnerability Assessment"/>
+  <img src="https://img.shields.io/badge/Web_Application_Security-FF0000?style=for-the-badge&logoColor=white" alt="Web Application Security"/>
+  <img src="https://img.shields.io/badge/Cobalt_Strike-1E90FF?style=for-the-badge&logoColor=white" alt="Cobalt Strike"/>
+  <img src="https://img.shields.io/badge/BloodHound-8B0000?style=for-the-badge&logoColor=white" alt="BloodHound"/>
+  <img src="https://img.shields.io/badge/Empire-000080?style=for-the-badge&logoColor=white" alt="Empire"/>
+  <img src="https://img.shields.io/badge/Covenant-4B0082?style=for-the-badge&logoColor=white" alt="Covenant"/>
+  <img src="https://img.shields.io/badge/Impacket-2F4F4F?style=for-the-badge&logoColor=white" alt="Impacket"/>
+  <img src="https://img.shields.io/badge/Mimikatz-8B4513?style=for-the-badge&logoColor=white" alt="Mimikatz"/>
+  <img src="https://img.shields.io/badge/PowerShell_Empire-000080?style=for-the-badge&logoColor=white" alt="PowerShell Empire"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK Stack"/>
+  <img src="https://img.shields.io/badge/Suricata-FF4500?style=for-the-badge&logoColor=white" alt="Suricata"/>
+  <img src="https://img.shields.io/badge/Snort-00008B?style=for-the-badge&logoColor=white" alt="Snort"/>
 </p>
 
 <hr style="border-top: 1px dashed #444;">
@@ -53,16 +70,4 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkwall&repo=arch-linux&show_owner=true&theme=tokyonight&hide_border=true" alt="Arch Linux"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkwall&repo=android&show_owner=true&theme=tokyonight&hide_border=true" alt="Android"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkwall&repo=ios&show_owner=true&theme=tokyonight&hide_border=true" alt="iOS"/>
-</p>
-
-<hr style="border-top: 1px dashed #444;">
-
-<h2 align="center"><img src="https://img.icons8.com/ios-filled/24/00e676/github.png" style="vertical-align:middle;"> GitHub Insights</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darkwall&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="500"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkwall&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkwall&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="500"/>
 </p>
