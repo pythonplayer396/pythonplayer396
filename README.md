@@ -46,13 +46,13 @@
 
 <h2 align="center"><img src="https://img.icons8.com/ios-filled/24/00e676/server.png" style="vertical-align:middle;"> Environments</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Parrot_OS-00CED1?style=for-the-badge&logo=parrot-security&logoColor=black" alt="Parrot OS"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkwall&repo=kali&show_owner=true&theme=tokyonight&hide_border=true" alt="Kali Linux"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkwall&repo=parrot-os&show_owner=true&theme=tokyonight&hide_border=true" alt="Parrot OS"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkwall&repo=windows&show_owner=true&theme=tokyonight&hide_border=true" alt="Windows"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkwall&repo=ubuntu&show_owner=true&theme=tokyonight&hide_border=true" alt="Ubuntu"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkwall&repo=arch-linux&show_owner=true&theme=tokyonight&hide_border=true" alt="Arch Linux"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkwall&repo=android&show_owner=true&theme=tokyonight&hide_border=true" alt="Android"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkwall&repo=ios&show_owner=true&theme=tokyonight&hide_border=true" alt="iOS"/>
 </p>
 
 <hr style="border-top: 1px dashed #444;">
@@ -60,4 +60,3 @@
 <h2 align="center"><img src="https://img.icons8.com/ios-filled/24/00e676/github.png" style="vertical-align:middle;"> GitHub Insights</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darkwall&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="500"/>
-</p>
