@@ -63,11 +63,5 @@
 
 <h2 align="center"><img src="https://img.icons8.com/ios-filled/24/00e676/server.png" style="vertical-align:middle;"> Environments</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkwall&repo=kali&show_owner=true&theme=tokyonight&hide_border=true" alt="Kali Linux"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkwall&repo=parrot-os&show_owner=true&theme=tokyonight&hide_border=true" alt="Parrot OS"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkwall&repo=windows&show_owner=true&theme=tokyonight&hide_border=true" alt="Windows"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkwall&repo=ubuntu&show_owner=true&theme=tokyonight&hide_border=true" alt="Ubuntu"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkwall&repo=arch-linux&show_owner=true&theme=tokyonight&hide_border=true" alt="Arch Linux"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkwall&repo=android&show_owner=true&theme=tokyonight&hide_border=true" alt="Android"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkwall&repo=ios&show_owner=true&theme=tokyonight&hide_border=true" alt="iOS"/>
+  Something went wrong! file an issue at https://tiny.one/readme-stats
 </p>
