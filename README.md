@@ -41,13 +41,13 @@
 
 <h2 align="center"><img src="https://img.icons8.com/ios-filled/24/00e676/server.png" style="vertical-align:middle;"> Environments</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PYLzanok3&repo=kali&show_owner=true&theme=tokyonight&hide_border=true" alt="Kali Linux"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PYLzanok3&repo=parrot-os&show_owner=true&theme=tokyonight&hide_border=true" alt="Parrot OS"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PYLzanok3&repo=windows&show_owner=true&theme=tokyonight&hide_border=true" alt="Windows"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PYLzanok3&repo=ubuntu&show_owner=true&theme=tokyonight&hide_border=true" alt="Ubuntu"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PYLzanok3&repo=arch-linux&show_owner=true&theme=tokyonight&hide_border=true" alt="Arch Linux"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PYLzanok3&repo=android&show_owner=true&theme=tokyonight&hide_border=true" alt="Android"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PYLzanok3&repo=ios&show_owner=true&theme=tokyonight&hide_border=true" alt="iOS"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pythonplayer396&repo=kali&show_owner=true&theme=tokyonight&hide_border=true" alt="Kali Linux"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pythonplayer396&repo=parrot-os&show_owner=true&theme=tokyonight&hide_border=true" alt="Parrot OS"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pythonplayer396&repo=windows&show_owner=true&theme=tokyonight&hide_border=true" alt="Windows"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pythonplayer396&repo=ubuntu&show_owner=true&theme=tokyonight&hide_border=true" alt="Ubuntu"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pythonplayer396&repo=arch-linux&show_owner=true&theme=tokyonight&hide_border=true" alt="Arch Linux"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pythonplayer396&repo=android&show_owner=true&theme=tokyonight&hide_border=true" alt="Android"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pythonplayer396&repo=ios&show_owner=true&theme=tokyonight&hide_border=true" alt="iOS"/>
 </p>
 
 <hr style="border-top: 1px dashed #444;">
@@ -55,12 +55,12 @@
 <h2 align="center"><img src="https://img.icons8.com/ios-glyphs/30/00e676/statistics.png" style="vertical-align:middle;"> GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PYLzanok3&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pythonplayer396&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PYLzanok3&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PYLzanok3&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pythonplayer396&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythonplayer396&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <hr style="border-top: 1px dashed #444;">
