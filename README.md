@@ -25,6 +25,7 @@
 <h2 align="center"><img src="https://img.icons8.com/ios-filled/24/00e676/console.png" style="vertical-align:middle;"> Tech Stack</h2>
 
 <p align="center">
+  <!-- Existing -->
   <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF9900?style=for-the-badge&logo=burp-suite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
@@ -35,19 +36,38 @@
   <img src="https://img.shields.io/badge/CrackMapExec-2E8B57?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=OWASP&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-0066CC?style=for-the-badge&logo=wireshark&logoColor=white"/>
-</p>
 
-<hr style="border-top: 1px dashed #444;">
+  <!-- Added tools -->
+  <br/>
+  <img src="https://img.shields.io/badge/Aircrack--ng-1E90FF?style=for-the-badge&logo=aircrack-ng&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hydra-DC143C?style=for-the-badge&logo=hydra&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Masscan-FF4500?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Betercap-483D8B?style=for-the-badge&logo=bettercap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gobuster-228B22?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DirBuster-8B008B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nikto-FF6347?style=for-the-badge&logo=nikto&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wfuzz-2F4F4F?style=for-the-badge&logo=wfuzz&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Impacket-20B2AA?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Empire-191970?style=for-the-badge&logoColor=white"/>
 
-<h2 align="center"><img src="https://img.icons8.com/ios-filled/24/00e676/server.png" style="vertical-align:middle;"> Environments</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pythonplayer396&repo=kali&show_owner=true&theme=tokyonight&hide_border=true" alt="Kali Linux"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pythonplayer396&repo=parrot-os&show_owner=true&theme=tokyonight&hide_border=true" alt="Parrot OS"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pythonplayer396&repo=windows&show_owner=true&theme=tokyonight&hide_border=true" alt="Windows"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pythonplayer396&repo=ubuntu&show_owner=true&theme=tokyonight&hide_border=true" alt="Ubuntu"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pythonplayer396&repo=arch-linux&show_owner=true&theme=tokyonight&hide_border=true" alt="Arch Linux"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pythonplayer396&repo=android&show_owner=true&theme=tokyonight&hide_border=true" alt="Android"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pythonplayer396&repo=ios&show_owner=true&theme=tokyonight&hide_border=true" alt="iOS"/>
+  <br/>
+  <img src="https://img.shields.io/badge/PowerSploit-8B4513?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responder--NG-DAA520?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OSINT--Maltego-2E8B57?style=for-the-badge&logo=maltego&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Autopsy-708090?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Volatility-483D8B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FTK-8B0000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mimikatz-800000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Crontab--Enumerate-2F4F4F?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SSH--Tools-4682B4?style=for-the-badge&logo=putty&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+  <br/>
+  <!-- Optional: Kali / Platform badges -->
+  <img src="https://img.shields.io/badge/Kali_Linux-2E3440?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit_Framework-FF0000?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CTF-1F8AC0?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OSCP-DA291C?style=for-the-badge&logoColor=white"/>
 </p>
 
 <hr style="border-top: 1px dashed #444;">
