@@ -61,17 +61,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darkwall&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="500"/>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/darkwall/random-streak/main/streak-day-65.svg" alt="Commit Streak" width="500"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkwall&theme=rogue&hide_border=true&area=true" alt="GitHub Contribution Graph" width="700"/>
-</p>
-
-<p align="center">
-  <sub>
-    <i>
-      <!-- Customize streak SVG daily for personal motivation. -->
-    </i>
-  </sub>
-</p>
