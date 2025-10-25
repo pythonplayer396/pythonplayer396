@@ -1,6 +1,6 @@
 <!--
   Minimalist, impactful cybersecurity portfolio.
-  Clean, focused, and modern.s
+  Clean, focused, and modern.ssdddf
 -->
 
 <h1 align="center" style="font-family: 'Fira Mono', monospace;">
