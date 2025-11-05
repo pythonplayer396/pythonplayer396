@@ -1,8 +1,8 @@
-<a href="https://github.com/otterai"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I+am+darkwall;From+Bangladesh;Bot/Web+Dev!;Telegram%3A+%40C0deBr34ker1" alt="https://t.me/C0deBr34ker1" /></a>
+<a href="https://github.com/pythonplayer396"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I+am+darkwall;From+Bangladesh;Bot/Web+Dev!;Telegram%3A+%40C0deBr34ker1" alt="https://t.me/C0deBr34ker1" /></a>
 
 <p align="center">
     <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
-<img align="middle" alt="count" src="https://count.getloli.com/get/@:otterai?theme=rule34">
+<img align="middle" alt="count" src="https://count.getloli.com/get/@:pythonplayer396?theme=rule34">
     
 > [!CAUTION]
 > _```Life is like an anime—full of plot twists, power-ups, and late-night debugging!```_
@@ -20,12 +20,12 @@
 
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="darkwall Spotify" width="75%" />](https://open.spotify.com/user/31kwnupyqx72ol75h4nnsugze7fi)
 
-[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/otterai/)
+[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/pythonplayer396/)
 
-| <img align="center" src="https://github-stats-alpha.vercel.app/api/?username=otterai&cc=000&tc=00ff00&ic=fff000&bc=fff" alt="otterai's github stats" /></a> | <img align="center" alt="count" src=https://github.com/otterai/otterai/blob/main/GIF/pinterestdownloader.com-1741206996.729839.gif>
+| <img align="center" src="https://github-stats-alpha.vercel.app/api/?username=pythonplayer396&cc=000&tc=00ff00&ic=fff000&bc=fff" alt="darkwall's github stats" /></a> | <img align="center" alt="count" src=https://github.com/otterai/otterai/blob/main/GIF/pinterestdownloader.com-1741206996.729839.gif>
 | ------------- | ------------- |
 
-![snake gif](https://github.com/ifeelscam/ifeelscam/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/pythonplayer396/pythonplayer396/blob/output/github-snake-dark.svg)
 
 
    
