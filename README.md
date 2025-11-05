@@ -1,90 +1,32 @@
-<!--
-  Minimalist, impactful cybersecurity portfolio.
-  Clean, focused, and modern.ssdddfd
--->
-
-<h1 align="center" style="font-family: 'Fira Mono', monospace;">
-  <img src="https://img.icons8.com/fluency/48/000000/hacker.png" width="40" style="vertical-align:middle; margin-right:10px;">
-  Cybersecurity Engineer
-</h1>
-
-<h3 align="center" style="font-family: 'Fira Mono', monospace; font-weight:400;">
-  Offensive Security &nbsp;|&nbsp; Threat Hunter &nbsp;|&nbsp; Reverse Engineering
-</h3>
-
-<p align="center" style="font-size:1.1em; color:#b0b0b0;">
-  <code>
-    // Digital Fortress Architect<br>
-    // Red & Blue Team Ops<br>
-    // Automation | Adversary Emulation | Exploit Dev
-  </code>
-</p>
-
-<hr style="border-top: 1px dashed #444;">
-
-<h2 align="center"><img src="https://img.icons8.com/ios-filled/24/00e676/console.png" style="vertical-align:middle;"> Tech Stack</h2>
+<a href="https://github.com/otterai"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I+am+darkwall;From+Bangladesh;Bot/Web+Dev!;Telegram%3A+%40C0deBr34ker1" alt="https://t.me/C0deBr34ker1" /></a>
 
 <p align="center">
-  <!-- Existing -->
-  <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF9900?style=for-the-badge&logo=burp-suite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hashcat-800080?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Responder-FFD700?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CrackMapExec-2E8B57?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=OWASP&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-0066CC?style=for-the-badge&logo=wireshark&logoColor=white"/>
+    <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
+<img align="middle" alt="count" src="https://count.getloli.com/get/@:otterai?theme=rule34">
+    
+> [!CAUTION]
+> _```Life is like an anime—full of plot twists, power-ups, and late-night debugging!```_
 
-  <!-- Added tools -->
-  <br/>
-  <img src="https://img.shields.io/badge/Aircrack--ng-1E90FF?style=for-the-badge&logo=aircrack-ng&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hydra-DC143C?style=for-the-badge&logo=hydra&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Masscan-FF4500?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Betercap-483D8B?style=for-the-badge&logo=bettercap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gobuster-228B22?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DirBuster-8B008B?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nikto-FF6347?style=for-the-badge&logo=nikto&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wfuzz-2F4F4F?style=for-the-badge&logo=wfuzz&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Impacket-20B2AA?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Empire-191970?style=for-the-badge&logoColor=white"/>
 
-  <br/>
-  <img src="https://img.shields.io/badge/PowerSploit-8B4513?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Responder--NG-DAA520?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OSINT--Maltego-2E8B57?style=for-the-badge&logo=maltego&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Autopsy-708090?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Volatility-483D8B?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FTK-8B0000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mimikatz-800000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Crontab--Enumerate-2F4F4F?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SSH--Tools-4682B4?style=for-the-badge&logo=putty&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-  <br/>
-  <!-- Optional: Kali / Platform badges -->
-  <img src="https://img.shields.io/badge/Kali_Linux-2E3440?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit_Framework-FF0000?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CTF-1F8AC0?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OSCP-DA291C?style=for-the-badge&logoColor=white"/>
-</p>
-
-<hr style="border-top: 1px dashed #444;">
-
-<h2 align="center"><img src="https://img.icons8.com/ios-glyphs/30/00e676/statistics.png" style="vertical-align:middle;"> GitHub Analytics</h2>
+ 
+<h2><img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/analytics.webp" width="35px"> 
+ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pythonplayer396&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<a href="https://telegram.me/C0deBr34ker1"><img src="https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pythonplayer396&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythonplayer396&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+<h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
-<hr style="border-top: 1px dashed #444;">
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="darkwall Spotify" width="75%" />](https://open.spotify.com/user/31kwnupyqx72ol75h4nnsugze7fi)
 
-<p align="center" style="font-family:'Fira Mono', monospace; color:#00e676;">
-  <code>// Stay vigilant. Stay curious. Stay secure.</code>
-</p>
+[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/otterai/)
+
+| <img align="center" src="https://github-stats-alpha.vercel.app/api/?username=otterai&cc=000&tc=00ff00&ic=fff000&bc=fff" alt="otterai's github stats" /></a> | <img align="center" alt="count" src=https://github.com/otterai/otterai/blob/main/GIF/pinterestdownloader.com-1741206996.729839.gif>
+| ------------- | ------------- |
+
+![snake gif](https://github.com/ifeelscam/ifeelscam/blob/output/github-snake-dark.svg)
+
+
+   
+ 
