@@ -39,24 +39,6 @@
 </details>
 
 <details>
-<summary>ᴡɪʀᴇʟᴇss & ʀᴀᴅɪᴏ</summary>
-
-[![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-WiFi%20Cracking-black?style=flat-square&logo=kalilinux)](https://www.aircrack-ng.org)
-[![WiFite](https://img.shields.io/badge/WiFite-Automated%20WiFi%20Attack-black?style=flat-square&logo=kalilinux)](https://github.com/derv82/wifite2)
-[![HackRF](https://img.shields.io/badge/HackRF-SDR%20Attacks-black?style=flat-square&logo=kalilinux)](https://greatscottgadgets.com/hackrf)
-[![Kismet](https://img.shields.io/badge/Kismet-Wireless%20Sniffer-black?style=flat-square&logo=kalilinux)](https://www.kismetwireless.net)
-</details>
-
-<details>
-<summary>ᴘᴀssᴡᴏʀᴅ & ᴄʀʏᴘᴛᴏ</summary>
-
-[![Hydra](https://img.shields.io/badge/Hydra-Password%20Bruteforce-black?style=flat-square&logo=kalilinux)](https://github.com/vanhauser-thc/thc-hydra)
-[![Hashcat](https://img.shields.io/badge/Hashcat-Hash%20Cracking-black?style=flat-square&logo=kalilinux)](https://hashcat.net)
-[![CeWL](https://img.shields.io/badge/CeWL-Custom%20Wordlist-black?style=flat-square&logo=kalilinux)](https://digi.ninja/projects/cewl.php)
-[![RSACTFTool](https://img.shields.io/badge/RSACTFTool-RSA%20Exploitation-black?style=flat-square&logo=kalilinux)](https://github.com/Ganapati/RsaCtfTool)
-</details>
-
-<details>
 <summary>sᴏᴄɪᴀʟ ᴇɴɢɪɴᴇᴇʀɪɴɢ</summary>
 
 [![SET](https://img.shields.io/badge/SET-Social%20Engineer%20Toolkit-black?style=flat-square&logo=kalilinux)](https://github.com/trustedsec/social-engineer-toolkit)
@@ -101,15 +83,6 @@
 [![theHarvester](https://img.shields.io/badge/theHarvester-Info%20Gathering-black?style=flat-square&logo=kalilinux)](https://github.com/laramies/theHarvester)
 [![recon-ng](https://img.shields.io/badge/recon--ng-Reconnaissance-black?style=flat-square&logo=kalilinux)](https://github.com/lanmaster53/recon-ng)
 [![Photon](https://img.shields.io/badge/Photon-OSINT%20Crawler-black?style=flat-square&logo=kalilinux)](https://github.com/s0md3v/Photon)
-</details>
-
-<details>
-<summary>ᴍᴀʟᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ</summary>
-
-[![Phantom-Evasion](https://img.shields.io/badge/Phantom--Evasion-AV%20Bypass-black?style=flat-square&logo=kalilinux)](https://github.com/oddcod3/Phantom-Evasion)
-[![PoisonIvy](https://img.shields.io/badge/Poison%20Ivy-RAT-black?style=flat-square&logo=kalilinux)](https://github.com/nccgroup/poison-ivy)
-[![DKMC](https://img.shields.io/badge/DKMC-Payload%20Encoder-black?style=flat-square&logo=kalilinux)](https://github.com/Mr-Un1k0d3r/DKMC)
-[![Xenotix](https://img.shields.io/badge/Xenotix-XSS%20Exploitation-black?style=flat-square&logo=kalilinux)](https://github.com/ajinabraham/OWASP-Xenotix-XSS-Exploit-Framework)
 </details>
 
 [<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/pythonplayer396/)
