@@ -18,44 +18,6 @@
 
 <h1><img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/analytics.webp" width="35px"> ᴄʏʙᴇʀsᴇᴄᴜʀɪᴛʏ ᴛᴏᴏʟs</h1>
 
-<details>
-<summary>ᴘᴇɴᴇᴛʀᴀᴛɪᴏɴ & ᴇxᴘʟᴏɪᴛᴀᴛɪᴏɴ</summary>
-
-[![Nmap](https://img.shields.io/badge/Nmap-Advanced%20Network%20Scanner-black?style=flat-square&logo=kalilinux)](https://nmap.org)
-[![Metasploit](https://img.shields.io/badge/Metasploit-Advanced%20Exploitation-black?style=flat-square&logo=kalilinux)](https://www.metasploit.com)
-[![BetterCap](https://img.shields.io/badge/BetterCap-MITM%20Attacks-black?style=flat-square&logo=kalilinux)](https://www.bettercap.org)
-[![Empire](https://img.shields.io/badge/Empire-Post%20Exploitation-black?style=flat-square&logo=kalilinux)](https://github.com/BC-SECURITY/Empire)
-[![Cobalt Strike](https://img.shields.io/badge/Cobalt%20Strike-Advanced%20C2-black?style=flat-square&logo=kalilinux)](https://www.cobaltstrike.com)
-</details>
-
-<details>
-<summary>ᴡᴇʙ ᴇxᴘʟᴏɪᴛᴀᴛɪᴏɴ</summary>
-
-[![SQLMap](https://img.shields.io/badge/SQLMap-Advanced%20SQL%20Injection-black?style=flat-square&logo=kalilinux)](https://sqlmap.org)
-[![XSStrike](https://img.shields.io/badge/XSStrike-Advanced%20XSS-black?style=flat-square&logo=kalilinux)](https://github.com/s0md3v/XSStrike)
-[![commix](https://img.shields.io/badge/commix-Command%20Injection-black?style=flat-square&logo=kalilinux)](https://github.com/commixproject/commix)
-[![NoSQLMap](https://img.shields.io/badge/NoSQLMap-NoSQL%20Exploitation-black?style=flat-square&logo=kalilinux)](https://github.com/codingo/NoSQLMap)
-[![wafw00f](https://img.shields.io/badge/wafw00f-WAF%20Detection-black?style=flat-square&logo=kalilinux)](https://github.com/EnableSecurity/wafw00f)
-</details>
-
-<details>
-<summary>sᴏᴄɪᴀʟ ᴇɴɢɪɴᴇᴇʀɪɴɢ</summary>
-
-[![SET](https://img.shields.io/badge/SET-Social%20Engineer%20Toolkit-black?style=flat-square&logo=kalilinux)](https://github.com/trustedsec/social-engineer-toolkit)
-[![Gophish](https://img.shields.io/badge/Gophish-Phishing%20Framework-black?style=flat-square&logo=go)](https://getgophish.com)
-[![ShellPhish](https://img.shields.io/badge/ShellPhish-Social%20Media%20Phishing-black?style=flat-square&logo=kalilinux)](https://github.com/suljot/shellphish)
-[![HiddenEye](https://img.shields.io/badge/HiddenEye-Modern%20Phishing-black?style=flat-square&logo=kalilinux)](https://github.com/DarkSecDevelopers/HiddenEye-Legacy)
-</details>
-
-<details>
-<summary>ᴀᴅᴠᴀɴᴄᴇᴅ ᴘᴇʀsɪsᴛᴇɴᴄᴇ</summary>
-
-[![TheFatRat](https://img.shields.io/badge/TheFatRat-Backdoor%20Generator-black?style=flat-square&logo=kalilinux)](https://github.com/Screetsec/TheFatRat)
-[![Veil](https://img.shields.io/badge/Veil-AV%20Evasion-black?style=flat-square&logo=kalilinux)](https://github.com/Veil-Framework/Veil)
-[![Shelter](https://img.shields.io/badge/Shelter-C2%20Framework-black?style=flat-square&logo=kalilinux)](https://github.com/SafeBreach-Labs/Shelter)
-[![Stitch](https://img.shields.io/badge/Stitch-Python%20RAT-black?style=flat-square&logo=python)](https://github.com/nathanlopez/Stitch)
-</details>
-
 <h3>🕵️ Forensics & Analysis</h3>
 
 [![Volatility](https://img.shields.io/badge/Volatility-Memory%20Analysis-purple?style=for-the-badge&logo=kalilinux)](https://www.volatilityfoundation.org)
