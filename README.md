@@ -21,7 +21,8 @@
 | <img align="center" src="https://github-stats-alpha.vercel.app/api/?username=pythonplayer396&cc=000&tc=00ff00&ic=fff000&bc=fff" alt="darkwall's github stats" /></a> | <img align="center" alt="count" src=https://github.com/otterai/otterai/blob/main/GIF/pinterestdownloader.com-1741206996.729839.gif>
 | ------------- | ------------- |
 
-![snake gif](https://github.com/pythonplayer396/pythonplayer396/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/pythonplayer396/pythonplayer396/output/github-snake-dark.svg)
+
 
 
    
