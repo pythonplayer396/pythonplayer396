@@ -1,29 +1,31 @@
-<a href="https://github.com/pythonplayer396"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I+am+Ehtan;From+Bangladesh;Bot/Web+Dev!;Telegram%3A+%40C0deBr34ker1" alt="https://t.me/C0deBr34ker1" /></a>
 
 <p align="center">
-    <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
-<img align="middle" alt="count" src="https://count.getloli.com/get/@:pythonplayer396?theme=rule34">
-    
-> [!CAUTION]
-> _```Life is like an anime—full of plot twists, power-ups, and late-night debugging!```_
-
-
+    <b>ѕᴘᴇᴄᴛᴀᴛᴏʀs</b><br>
+<img align="middle" alt="count" src="https://count.getloli.com/@pythonplayer396?name=pythonplayer396&theme=booru-helltaker&padding=3&offset=0&align=center&scale=1&pixelated=1&darkmode=1&num=133245&prefix=0">
  
-<h2><img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/analytics.webp" width="35px"> 
-ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
+
+
 
 <p align="center">
-<a href="https://telegram.me/C0deBr34ker1"><img src="https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+  <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="logo" />
 </p>
 
-[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/pythonplayer396/)
+<h3 align="center">"In the fires of innovation, I forge code that shapes realms of impact."</h3>
 
-| <img align="center" src="https://github-stats-alpha.vercel.app/api/?username=pythonplayer396&cc=000&tc=00ff00&ic=fff000&bc=fff" alt="darkwall's github stats" /></a> | <img align="center" alt="count" src=https://github.com/otterai/otterai/blob/main/GIF/pinterestdownloader.com-1741206996.729839.gif>
-| ------------- | ------------- |
-
-![snake gif](https://raw.githubusercontent.com/pythonplayer396/pythonplayer396/output/github-snake-dark.svg)
-
-
-
-   
  
+# My Tech Stack :  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,js,java,python,go,mariadb,postgres,mongodb,kali,linux,debian,assembly,docker,git,bash,wireshark,nmap,openssl,metasploit,burpsuite,snort,tcpdump,vmware,ansible,ghidra,radare2,hashcat,aircrack,hydra,cobaltstrike&perline=8" />
+  </a>
+</p>
+
+
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://nirzak-streak-stats.vercel.app?user=pythonplayer396&theme=nordfox&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
+  </a>
+</p>
+
