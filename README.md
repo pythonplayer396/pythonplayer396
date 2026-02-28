@@ -1,4 +1,3 @@
-
 <p align="center">
   <b>VISITORS</b><br>
 <img align="middle" alt="count" src="https://count.getloli.com/@pythonplayer396?name=pythonplayer396&theme=booru-helltaker&padding=3&offset=0&align=center&scale=1&pixelated=1&darkmode=1&num=0&prefix=0">
@@ -7,8 +6,6 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="logo" />
 </p>
-
-<h3 align="center">"In the fires of innovation, I forge code that shapes realms of impact."</h3>
 
 # My Tech Stack
 
@@ -23,4 +20,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pythonplayer396&theme=nordfox&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
   </a>
 </p>
-
