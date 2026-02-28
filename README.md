@@ -10,7 +10,6 @@
   <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="logo" />
 </p>
 
-<h3 align="center">"In the fires of innovation, I forge code that shapes realms of impact."</h3>
 
  
 # My Tech Stack :  
